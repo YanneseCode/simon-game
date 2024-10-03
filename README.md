@@ -97,7 +97,7 @@ flowchart TD
 
 ## 🖼 Preview of the Game
 
-![Simon Game Screenshot](https://path-to-screenshot.com/screenshot.png)
+![Simon Game Screenshot](simon-game-screen.png)
 
 ## 🎯 Want to Contribute?
 
@@ -115,7 +115,7 @@ This guide is perfect for anyone who wants to learn how to think about coding lo
 
 ### 📚 Copyright | Contributor
 
-This project is contributed by **Dr.Angela** via her **Udemy Course: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps** - see the [COURSE](course) link for details.
+This project is contributed by **Dr. Angela** via her **Udemy Course** - see the [COURSE](course) link for details.
 
 ---
 
